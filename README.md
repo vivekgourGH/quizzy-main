@@ -1,6 +1,6 @@
-# Quizzy - A multi-category quiz App
+# Quizzy - A Multi-Category Quiz App
 
-Build Using Open Trivia Database.
+Built using Open Trivia Database.
 
 ## Tech Stack
 
@@ -12,29 +12,21 @@ Build Using Open Trivia Database.
 ## Challenges
 
 - Faced some challenges while writing unit test cases for particular scenarios.
+- Managing state effectively when integrating multiple API responses was tricky.
 
-## Learning
+## Learnings
 
-- Got to learn about the Vitest Testing Framework
+- Gained hands-on experience with the Vitest Testing Framework.
 - Wrote unit test cases for the first time.
-- Understood the workflows of Mock API calls.
-- Learned about Snapshot testing.
+- Understood the workflows of Mock API calls and how to test them efficiently.
+- Learned about Snapshot Testing.
+- Enhanced problem-solving skills while debugging API-related issues.
 
-## Screenshots
+## Features
 
-Home Page:
-![Home Page](/src/assests/image.png)
+- Multi-category quiz functionality.
+- Dynamic question loading from Open Trivia Database.
+- User-friendly interface with TailwindCSS styling.
+- Real-time feedback on answers (correct/incorrect highlighting).
+- Results page summarizing the user's performance.
 
-Quiz Page showing question loaded from API:
-![Quiz Page showing question loaded from API](/src/assests/image-1.png)
-
-Correct answer highlighting:
-![Correct answer highlighting](/src/assests/image-2.png)
-
-Incorrect answer and correct answer highlighting:
-![Incorrect answer and correct answer highlighting](/src/assests/image-3.png)
-
-Results Page:
-![Results Page](/src/assests/image-4.png)
-
-> I enjoy building the whole Application.
